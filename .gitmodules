@@ -1,6 +1,6 @@
-[submodule "sprout-mill-bridgeport/emc2-configs"]
-	path = sprout-mill-bridgeport/emc2-configs
-	url = git@github.com:directionless/emc2-sprout-bridgeport.git
-[submodule "maxnc10ol/emc2-configs"]
-	path = maxnc10ol/emc2-configs
+[submodule "machines/maxnc10ol/emc2-configs"]
+	path = machines/maxnc10ol/emc2-configs
 	url = git@github.com:directionless/emc2-maxnc10ol.git
+[submodule "machines/sprout-mill-bridgeport/emc2-configs"]
+	path = machines/sprout-mill-bridgeport/emc2-configs
+	url = git@github.com:directionless/emc2-sprout-bridgeport.git
