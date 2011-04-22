@@ -1,0 +1,18 @@
+After a long absence, finally getting back to this.
+
+One of the big impediments to work was the time that went into getting
+everything setup for testing and then torn back down for storage. It
+was probably about 30 minutes on each side. And when I only have a
+couple hours a week, that's pretty significant.
+
+So, tonight, I started addressing that. There's now a shelf near the
+mill for the computer to live on. And more parts towards making proper
+electronics boxes and cables and the like. 
+
+This feels like real progress.
+
+There was also bonus lathe work. Found the problem in the drive
+assembly that was making it go whumpa whumpa -- it was missing a set
+screw. Also found the problem in the chuck -- the clamp part was
+misaligned to the backing plate. Not entirely sure how the chuck is
+supposed to work, the design is kinda dumb.

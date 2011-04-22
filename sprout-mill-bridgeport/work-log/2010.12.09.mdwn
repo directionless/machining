@@ -1,0 +1,4 @@
+Found a DB25 cable. Hooked up to scope. Verified signals coming out of EMC
+
+Decided I should really make a schematic (and maybe board) for the db25 
+breakout
