@@ -6,7 +6,7 @@ There's a tiny shear pin holding the lead screw to the drive motor.
 
 It looks like a T:
 
-
+<pre>
       ->|                          |<- 0.188"
 
        	----------------------------
@@ -24,6 +24,7 @@ It looks like a T:
 		  --------            ---
 			  
                 ->|      |<- 0.058"
+</pre>
 
 
 # Replacements #
